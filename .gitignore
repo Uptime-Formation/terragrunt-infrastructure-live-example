@@ -19,3 +19,6 @@
 build/
 */build/
 out/
+backend.tf
+provider.tf
+.terraform.lock.hcl
